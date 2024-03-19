@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+#main-content{
+    color: white;
+    width: 50%;
+    margin-top: 75px;
+    margin-left: 25%;
+    text-align: center;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+img{
+    border: 5px solid white;
+    width: 100%;
+    max-width: 600px;
+}
+
+p{
+    font-size: 1.1em;
+}
